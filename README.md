@@ -20,6 +20,28 @@ groq-ai-agent/
 │   ├── GroqService.cs          # Groq API service
 ├── appsettings.json             # Configuration file
 ├── Program.cs                   # Main entry poinhere](https://console.groq.com/docs/openai)
+```
+
+## Installation
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/dhvietanh1001/Groq_Ai.git
+cd groq-ai-agent
+```
+
+### 2. Configure `appsettings.json`:
+Quan trọng nhất là cập nhập apikey
+```json
+{
+  "GroqSettings": {
+    "ApiKey": "your_groq_api_key",
+    "BaseUrl": "https://api.groq.com/openai/v1/",
+    "DefaultModel": "gemma2-9b-it"
+  }
+}
+```
+You can sign up and get APIkey at: [here](https://console.groq.com/docs/openai)
 
 ### 3. Run the application:
 ```bash
