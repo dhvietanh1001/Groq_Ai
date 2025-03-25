@@ -1,12 +1,8 @@
 # Groq AI Agent API
 
 ## Introduction
-This project provides an API server that integrates with Groq API to deliver high-performance AI chat capabilities using LLM models like Llama 3 and Mixtral. The server handles chat requests, manages conversation sessions, and generates intelligent responses.
-Groq is an AI service that provides an API that allows calling models such as:
-Llama 3.1
-GPT-4o
-Claude 3.5 Sonnet
-Gemini 1.5 Pro
+This project provides an API server integrated with Groq API to provide AI chat capabilities using popular artificial intelligence models such as ChatGPT, Gemini Meta, etc. The server handles chat requests, manages chat sessions, and generates intelligent responses.
+Groq is an AI service that provides an API(**Free**) that allows calling models such as: Llama 3.1, GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
 ## Project Structure
 ```
 groq-ai-agent/
@@ -38,7 +34,7 @@ cd groq-ai-agent
 ```
 
 ### 2. Configure `appsettings.json`:
-Quan trọng nhất là cập nhập apikey
+Most important is to update api key
 ```json
 {
   "GroqSettings": {
@@ -125,6 +121,21 @@ Console.WriteLine(result.Response);
 ✅ In-memory conversation history  
 ✅ Comprehensive health checks  
 ✅ Detailed error handling  
+
+## GROQ Supported Models
+
+| MODEL ID                   | DEVELOPER   | CONTEXT WINDOW (TOKENS) | MAX COMPLETION TOKENS | MAX FILE SIZE |
+|----------------------------|-------------|-------------------------|-----------------------|---------------|
+| distil-whisper-large-v3-en | HuggingFace | -                       | -                     | 25 MB         | 
+| gemma2-9b-it               | Google      | 8,192                   | -                     | -             | 
+| llama-3.3-70b-versatile    | Meta        | 128K                    | 32,768                | -             | 
+| llama-3.1-8b-instant       | Meta        | 128K                    | 8,192                 | -             | 
+| llama-guard-3-8b           | Meta        | 8,192                   | -                     | -             | 
+| llama3-70b-8192            | Meta        | 8,192                   | -                     | -             | 
+| llama3-8b-8192             | Meta        | 8,192                   | -                     | -             | 
+| mixtral-8x7b-32768         | Mistral     | 32,768                  | -                     | -             | 
+| whisper-large-v3           | OpenAI      | -                       | -                     | 25 MB         | 
+| whisper-large-v3-turbo     | OpenAI      | -                       | -                     | 25 MB         |
 
 ## Notes
 ⚠️ **Keep your API key secure**  
