@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\GroqRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B658C-A03A-4EAF-8E42-8495234FA4B4}|Claude_AI_Agent\\Groq_AI_Agent.csproj|c:\\users\\vieta\\source\\repos\\groq_ai_agent\\claude_ai_agent\\groq_ai_agent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D94B658C-A03A-4EAF-8E42-8495234FA4B4}|Claude_AI_Agent\\Groq_AI_Agent.csproj|solutionrelative:claude_ai_agent\\groq_ai_agent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B658C-A03A-4EAF-8E42-8495234FA4B4}|Claude_AI_Agent\\Groq_AI_Agent.csproj|c:\\users\\vieta\\source\\repos\\groq_ai_agent\\claude_ai_agent\\groq_ai_agent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D94B658C-A03A-4EAF-8E42-8495234FA4B4}|Claude_AI_Agent\\Groq_AI_Agent.csproj|solutionrelative:claude_ai_agent\\groq_ai_agent.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\HealthReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\HealthReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Controllers\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\ChatResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\GroqController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Controllers\\GroqController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Services\\GroqService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Services\\GroqService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\ChatRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Models\\GroqResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude_AI_Agent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Groq_AI_Agent",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "RelativeToolTip": "Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T22:06:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Groq_AI_Agent.csproj",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "RelativeToolTip": "Claude_AI_Agent\\Groq_AI_Agent.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T22:05:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthReport.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\HealthReport.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\HealthReport.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\HealthReport.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\HealthReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:02:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Controllers\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:47:27.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\ChatResponse.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatResponse.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\ChatResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:42:46.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroqRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqRequest.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\GroqRequest.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqRequest.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\GroqRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:25:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroqController.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\GroqController.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Controllers\\GroqController.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Controllers\\GroqController.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Controllers\\GroqController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:22:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroqService.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Services\\GroqService.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Services\\GroqService.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Services\\GroqService.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Services\\GroqService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwB4AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:21:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\ChatRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:18:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\Message.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:18:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroqResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqResponse.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Models\\GroqResponse.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Models\\GroqResponse.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Models\\GroqResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:18:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\appsettings.json",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\appsettings.json",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\appsettings.json",
+              "RelativeToolTip": "Claude_AI_Agent\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T18:14:03.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Program.cs",
+              "RelativeDocumentMoniker": "Claude_AI_Agent\\Program.cs",
+              "ToolTip": "C:\\Users\\vieta\\source\\repos\\Groq_AI_Agent\\Claude_AI_Agent\\Program.cs",
+              "RelativeToolTip": "Claude_AI_Agent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:05:54.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
