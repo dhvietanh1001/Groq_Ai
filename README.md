@@ -31,7 +31,7 @@ cd groq-ai-agent
 ```
 
 ### 2. Configure `appsettings.json`:
-Quan trọng nhất là cập nhập apikey
+The most importance is update apikey
 ```json
 {
   "GroqSettings": {
