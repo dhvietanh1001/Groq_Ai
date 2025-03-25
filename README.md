@@ -8,22 +8,24 @@ GPT-4o
 Claude 3.5 Sonnet
 Gemini 1.5 Pro
 ## Project Structure
+```
 groq-ai-agent/
 ├── Controllers/
-│ ├── GroqController.cs # API endpoints
-│ └── HealthController # Check server health 
+│   ├── GroqController.cs        # API endpoints
+│   ├── HealthController.cs      # Check server health
 ├── Models/
-│ ├── GroqRequest.cs # Groq API request model
-│ ├── GroqResponse.cs # Groq API response model
-│ ├── Message.cs # Message model
-│ ├── ChatRequest.cs # Client request model
-│ ├── ChatResponse.cs # Client respone model 
-│ └── HealthReponse.cs # Server 's health
+│   ├── GroqRequest.cs          # Groq API request model
+│   ├── GroqResponse.cs         # Groq API response model
+│   ├── Message.cs              # Message model
+│   ├── ChatRequest.cs          # Client request model
+│   ├── ChatResponse.cs         # Client response model
+│   ├── HealthResponse.cs       # Server health model
 ├── Services/
-│ └── GroqService.cs # Groq API service
-├── appsettings.json # Configuration
-├── Program.cs # Main entry point
-└── README.md # This documentation
+│   ├── GroqService.cs          # Groq API service
+├── appsettings.json             # Configuration file
+├── Program.cs                   # Main entry point
+└── README.md                    # This documentation
+```
 
 Copy
 
